@@ -9,7 +9,7 @@
 #include <ESP8266WiFi.h>
 
 // Define pin on ESP that will be connected to strip
-#define DATA_PIN 1
+#define DATA_PIN 5
 
 // Define no of leds you have on strip
 #define NUM_LEDS 10
